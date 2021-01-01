@@ -1,5 +1,6 @@
 # getURLinfo
-百度URL采集工具
+tool for URL collection.
 # Usage:
 python3 getURL.py [keyword]
 ## surpport searchEngine syntax
+## surpport multithreading
